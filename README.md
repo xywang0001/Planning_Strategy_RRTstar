@@ -8,3 +8,4 @@ The optimized version of RRT
 ![image](https://github.com/xywang0001/Planning_Strategy_RRTstar/blob/master/rrt_star_3000_v1.png)  
 ![image](https://github.com/xywang0001/Planning_Strategy_RRTstar/blob/master/rrt_star_5000_v1.png)  
 ![image](https://github.com/xywang0001/Planning_Strategy_RRTstar/blob/master/rrt_star_10000_v1.png)  
+![image](https://github.com/xywang0001/Planning_Strategy_RRTstar/blob/master/best_Cost_plot.png) 
